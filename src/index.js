@@ -1,5 +1,5 @@
 console.log('Hello, world!');
 
-let a = 2
+let a = 2;
 
-alert ('hola')
+alert ('hola' +a );
